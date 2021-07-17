@@ -31,9 +31,9 @@
 	<key>iPhone7,1</key>
 	<string>iPhone 6 Plus</string>
 	<key>iPhone8,1</key>
-	<string>iPhone 6s</string>
+	<string>iPhone 6S</string>
 	<key>iPhone8,2</key>
-	<string>iPhone 6s Plus</string>
+	<string>iPhone 6S Plus</string>
 	<key>iPhone8,4</key>
 	<string>iPhone SE</string>
 	<key>iPhone9,1</key>
@@ -92,6 +92,8 @@
 	<string>iPod Touch 5G</string>
 	<key>iPod7,1</key>
 	<string>iPod Touch 6G</string>
+	<key>iPod9,1</key>
+	<string>iPod Touch 7G</string>
 	<key>iPad1,1</key>
 	<string>iPad</string>
 	<key>iPad2,1</key>
