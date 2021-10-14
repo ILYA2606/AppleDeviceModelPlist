@@ -19,7 +19,7 @@ let package = Package(
         .target(
             name: "AppleDeviceModelPlist",
             dependencies: [],
-            resources: [.copy("Resources")]
+            resources: [.process("Resources")]
         ),
     ]
 )
