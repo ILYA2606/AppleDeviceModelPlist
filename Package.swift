@@ -18,7 +18,8 @@ let package = Package(
     targets: [
         .target(
             name: "AppleDeviceModelPlist",
-            dependencies: []
+            dependencies: [],
+            resources: [.copy("Devices.plist")]
         ),
     ]
 )
