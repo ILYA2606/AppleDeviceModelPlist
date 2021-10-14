@@ -23,7 +23,7 @@ public extension UIDevice {
     /// Name of the model in human-readable form (For example, iPhone 13 Pro Max). If the device is not in the Devices.plist list, it will return the model identifier
     var modelName: String {
         guard
-            let path = Bundle.main.path(forResource: "Devices", ofType: "plist"),
+            let path = Bundle.resourceBundle.path(forResource: "Devices", ofType: "plist"),
             let dict = NSDictionary(contentsOfFile: path) as? [String: String],
             let name = dict[modelIdentifier]
         else { return modelIdentifier }
