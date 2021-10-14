@@ -8,7 +8,7 @@ private class BundleFinder {}
 public extension Bundle {
     static var resourceBundle: Bundle = {
  
-        let bundleName = "AppleDeviceModelPlist_Resources"
+        let bundleName = "AppleDeviceModelPlist_AppleDeviceModelPlist"
         let candidates = [
             Bundle.main.resourceURL,
             Bundle(for: BundleFinder.self).resourceURL,
