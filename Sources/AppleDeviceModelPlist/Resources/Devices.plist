@@ -88,6 +88,24 @@
 	<string>iPhone 13 Mini</string>
 	<key>iPhone14,5</key>
 	<string>iPhone 13</string>
+	<key>iPhone14,6</key>
+	<string>iPhone SE 3</string>
+	<key>iPhone14,7</key>
+	<string>iPhone 14</string>
+	<key>iPhone14,8</key>
+	<string>iPhone 14 Plus</string>
+	<key>iPhone15,2</key>
+	<string>iPhone 14 Pro</string>
+	<key>iPhone15,3</key>
+	<string>iPhone 14 Pro Max</string>
+	<key>iPhone15,4</key>
+	<string>iPhone 15</string>
+	<key>iPhone15,5</key>
+	<string>iPhone 15 Plus</string>
+	<key>iPhone16,1</key>
+	<string>iPhone 15 Pro</string>
+	<key>iPhone16,2</key>
+	<string>iPhone 15 Pro Max</string>
 	<key>iPod1,1</key>
 	<string>iPod Touch 1G</string>
 	<key>iPod2,1</key>
@@ -144,6 +162,10 @@
 	<string>iPad 9</string>
 	<key>iPad12,2</key>
 	<string>iPad 9</string>
+	<key>iPad13,18</key>
+	<string>iPad 10</string>
+	<key>iPad13,19</key>
+	<string>iPad 10</string>
 	<key>iPad2,5</key>
 	<string>iPad Mini</string>
 	<key>iPad2,6</key>
@@ -172,6 +194,8 @@
 	<string>iPad Mini 5</string>
 	<key>iPad14,1</key>
 	<string>iPad Mini 6</string>
+	<key>iPad14,2</key>
+	<string>iPad Mini 6</string>
 	<key>iPad4,1</key>
 	<string>iPad Air</string>
 	<key>iPad4,2</key>
@@ -190,6 +214,10 @@
 	<string>iPad Air 4</string>
 	<key>iPad13,2</key>
 	<string>iPad Air 4</string>
+	<key>iPad13,16</key>
+	<string>iPad Air 5</string>
+	<key>iPad13,17</key>
+	<string>iPad Air 5</string>
 	<key>iPad6,3</key>
 	<string>iPad Pro 9.7-inch</string>
 	<key>iPad6,4</key>
@@ -217,6 +245,10 @@
 	<key>iPad13,6</key>
 	<string>iPad Pro 11-inch 3</string>
 	<key>iPad13,7</key>
+	<string>iPad Pro 11-inch 4</string>
+	<key>iPad14,3</key>
+	<string>iPad Pro 11-inch 4</string>
+	<key>iPad14,4</key>
 	<string>iPad Pro 11-inch 3</string>
 	<key>iPad6,7</key>
 	<string>iPad Pro 12.9-inch</string>
@@ -246,6 +278,10 @@
 	<string>iPad Pro 12.9-inch 5</string>
 	<key>iPad13,11</key>
 	<string>iPad Pro 12.9-inch 5</string>
+	<key>iPad14,5</key>
+	<string>iPad Pro 12.9-inch 6</string>
+	<key>iPad14,6</key>
+	<string>iPad Pro 12.9-inch 6</string>
 	<key>AppleTV2,1</key>
 	<string>Apple TV 2</string>
 	<key>AppleTV3,1</key>
